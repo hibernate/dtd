@@ -1,0 +1,35 @@
+## Bundler
+.bundle
+.bin
+_bin
+
+## Awestruct
+_tmp
+_site
+.awestruct
+.sass-cache
+cache
+
+## Publishing
+_publish_tmp
+
+## OS related
+*.DS_Store
+
+## IDE
+.settings
+.project
+.buildpath
+*.sublime-project
+*.sublime-workspace
+*.iml
+.idea
+
+## Ruby tools
+.rvmrc
+.ruby-gemset
+.ruby-version
+
+# Vim
+.*.swp
+.*.swo
